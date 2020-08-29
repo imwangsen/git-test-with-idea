@@ -15,5 +15,6 @@ public class FirstClass {
 
     public void test(){
         System.out.println("11");
+        System.out.println("get from repos");
     }
 }
